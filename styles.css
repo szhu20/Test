@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgb(230, 230, 210);
+}
+
+/* #explanation-text {
+  color: rgb(250, 192, 247);
+} */
+
+#first-paragraph {
+  color: green;
+}
+
+div {
+  width: 70%;
+  background-color: rgb(189, 211, 255);
+  border: 1px solid red;
+  border-radius: 10px;
+  padding: 10px 10px;
+  margin: 10px auto;
+}
+
+#header {
+  width: 100%;
+  margin: 0;
+  background-color: rgb(50, 50, 50);
+  color: rgb(237, 237, 237);
+  text-align: center;
+  border: none;
+  border-radius: 0;
+  padding: 20px 10px;
+  margin-bottom: 20px;
+}
+
+/* .later-paragraph {
+  background-color: orange;
+  width: 65%;
+} */
